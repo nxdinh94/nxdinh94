@@ -19,9 +19,23 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nxdinh94&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nxdinh94&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxdinh94&layout=compact&theme=radical)
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
