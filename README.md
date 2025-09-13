@@ -11,7 +11,6 @@
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,9 +19,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=nxdinh94&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=nxdinh94&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxdinh94&layout=compact&theme=radical)
 
 ---
 
@@ -30,7 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [Xuan Dinh Nguyen](https://github.com/nxdinh94)
