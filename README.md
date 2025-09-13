@@ -1,12 +1,8 @@
 # Hi there 👋, I'm Xuan Dinh Nguyen
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[your tech stack / field]**
-- 💼 I’m working on **[your projects or job role]**
-- 👯 I’m looking to collaborate on **[open source / cool projects]**
-- 💬 Ask me about **[topics you’re confident in]**
-- 📫 How to reach me: **[your email / LinkedIn / Twitter]**
-- ⚡ Fun fact: **[something fun about you]**
+- 🌱 I’m currently learning **Flutter**
+- 📫 How to reach me: **nguyenxuandinh336@gmail.com**
 
 ---
 
@@ -26,8 +22,7 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
 ---
 
 ⭐️ From [Xuan Dinh Nguyen](https://github.com/nxdinh94)
