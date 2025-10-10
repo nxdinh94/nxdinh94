@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Xuan Dinh Nguyen
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, **Jetpack Compose**
 - 📫 How to reach me: **nguyenxuandinh336@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.compose.com/databases/postgresql)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- Add more tech here -->
