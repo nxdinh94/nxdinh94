@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Xuan Dinh Nguyen
+# Hi there, I'm Xuan Dinh Nguyen
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Flutter**, **Jetpack Compose**
+- 🌱 I’m very familiar with **Flutter**, **Jetpack Compose**
 - 📫 How to reach me: **nguyenxuandinh336@gmail.com**
 
 ---
