@@ -15,7 +15,6 @@
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nxdinh94&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nxdinh94&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxdinh94&layout=compact&theme=radical)
 
